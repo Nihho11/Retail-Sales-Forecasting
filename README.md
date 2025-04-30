@@ -40,6 +40,11 @@ Los resultados permiten visualizar la demanda futura estimada por producto y tie
 
 ![Dashboard Forecast](images/retail_forecast_dashboard.png)
 
+### Gráficos Comparativos de Ventas vs Predicción
+
+![Comparativo Mensual](Ventas%20vs%20Predicción%20Mensual.jpg)
+
+
 ---
 
 ## 🛠️ Herramientas y Librerías
