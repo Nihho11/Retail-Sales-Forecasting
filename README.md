@@ -38,7 +38,7 @@ Los resultados permiten visualizar la demanda futura estimada por producto y tie
 ### 🔮 Dashboard en Power BI
 ¡Este proyecto incluye un dashboard interactivo que permite explorar las predicciones de ventas por tienda y producto!
 
-![Dashboard Forecast](images/retail_forecast_dashboard.png)
+![Dashboard Forecast](Dashboard.jpg)
 
 ### Gráficos Comparativos de Ventas vs Predicción
 
@@ -66,7 +66,6 @@ Los resultados permiten visualizar la demanda futura estimada por producto y tie
 
 ├── README.md                          # Documentación del proyecto  
 
-└── Retail Forecast Dashboard.pbix     # Dashboard interactivo en Power BI
 
 ---
 
@@ -76,8 +75,7 @@ Los resultados del modelo se visualizaron con Power BI en un dashboard que permi
 
 - Tendencias de ventas reales vs. predichas  
 
-🔹 Puedes descargar el archivo aquí:  
-[📁 Retail Forecast Dashboard.pbix](./Retail%20Forecast%20Dashboard.pbix)
+🔹 Si deseas descargar el archivo .pbix contáctame.
 
 ---
 
@@ -99,5 +97,4 @@ Fuente: [Kaggle - Store Item Demand Forecasting Challenge](https://www.kaggle.co
 ## 📬 Contacto
 
 ¿Te interesa colaborar o tienes sugerencias?  
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/eduardo-alfonso-haro-villanueva-baa50a261/) o visita mi portafolio para más proyectos.
-
+Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/eduardo-alfonso-haro-villanueva-baa50a261/) o visita [mi portafolio](https://portafolio-eharo.carrd.co/) para más proyectos.
